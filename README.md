@@ -4,7 +4,7 @@ A machine learning project that predicts whether a breast tumor is **Benign** (n
 
 The project includes a complete Colab notebook for data analysis and model training, and an interactive **Streamlit web app** for live predictions.
 
-**🔗 Live Demo:** [Breast Cancer Prediction](https://your-app-link.streamlit.app)
+**🔗 Live Demo:** [Breast Cancer Prediction](https://predict-breast-cancer-ml.streamlit.app)
 
 ## 📊 Dataset
 The model is trained on the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data). The features describe characteristics of the cell nuclei present in the image, computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
