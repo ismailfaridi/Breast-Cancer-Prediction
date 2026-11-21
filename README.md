@@ -6,6 +6,8 @@ The project includes a complete Colab notebook for data analysis and model train
 
 **🔗 Live Demo:** [Breast Cancer Prediction](https://predict-breast-cancer-ml.streamlit.app)
 
+![App Screenshot](Breast_Cancer_Prediction_App.jpg)
+
 ## 📊 Dataset
 The model is trained on the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data). The features describe characteristics of the cell nuclei present in the image, computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
@@ -27,7 +29,6 @@ To keep the model interpretable and the web app user-friendly, the final model u
 ### 🖼️ Visualizations
 
 **Classification Report & Confusion Matrix:**
-<!-- Replace 'classification_report.png' with the actual name of your image file -->
 ![Classification Report](classification_report.jpg)
 
 ## 🖥️ The Streamlit App
